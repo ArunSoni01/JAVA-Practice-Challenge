@@ -1,1 +1,1 @@
-# JAVA-30_Day-Challenge
+# JAVA-Practice-Challenge
